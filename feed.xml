@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My News Feed</title>
+    <link>https://yourusername.github.io/</link>
+    <description>Updates and news from the admin</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Welcome to My Website</title>
+      <link>https://yourusername.github.io/</link>
+      <description>This is the first news update!</description>
+      <pubDate>Thu, 02 May 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Second News Item</title>
+      <link>https://yourusername.github.io/</link>
+      <description>Here's another quick update.</description>
+      <pubDate>Thu, 01 May 2025 08:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
